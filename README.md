@@ -1,11 +1,7 @@
 # Chrome Auto Logout
 Automatically logs users out of Chrome after a chosen period of inactivity.
 
-<p align="left">
-  <a target="_blank" href="https://chrome.google.com/webstore/detail/ngldgdloflfmfcnefhnkoodnbidemldm">
-    <img src="https://github.com/ahmedriaz12/cros-info/raw/master/cws.png" alt="Install from Chrome Web Store">
-  </a>
-</p>
+
 
 ## 🚀 Quick Start
 1. Install the extension from the Chrome Web Store (link above).
@@ -45,4 +41,3 @@ Admins using Workspace, Cloud Identity, or GCP can push this extension to users.
 
 ---
 
-Want me to customize the README even more—add badges, screenshots, contributing guidelines, or a license section?
